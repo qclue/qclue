@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Projects I'm working on:
-- [https://github.com/qclue/qclue]qclue
+- [qclue/qclue](https://github.com/qclue/qclue)
 
 ### Future projects to be carried out:
 - Telegram bots api for go
